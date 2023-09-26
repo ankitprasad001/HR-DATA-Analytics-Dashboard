@@ -53,7 +53,6 @@ The Dashboard provides Presence Insights of the employees.
 *	Developed analytical and visualization thinking.
 *	Learned some beautiful Dashboarding Techniques.
 
-**Note:** The PowerBI online publishing link is not available right now because of subscription issues. I will add that online link soon.
 
 #### THANK YOU
 
